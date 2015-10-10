@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+WCFSample/WCFSample.Client/Service References/GreetingServiceReference/*
+!WCFSample/WCFSample.Client/Service References/GreetingServiceReference/Reference.svcmap
+*.suo
+*.user
+

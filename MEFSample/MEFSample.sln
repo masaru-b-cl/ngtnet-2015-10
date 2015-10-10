@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoge", "Hoge\Hoge.csproj", "{1251E7E1-C2C1-4DE7-975A-EF605D6B0178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFSample.Composition", "MEFSample.Composition\MEFSample.Composition.csproj", "{68049913-6985-4D22-A022-980BD643EABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuga", "Fuga\Fuga.csproj", "{A8F513A7-8A64-4F00-9747-51C3DCB5AC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFSample.Menu", "MEFSample.Menu\MEFSample.Menu.csproj", "{61C8078A-55B2-4E00-8AEE-0D87E0CC0D7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E94652F1-E68E-479B-92B2-0F49BA7D20BD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFSample.Reflection", "MEFSample.Reflection\MEFSample.Reflection.csproj", "{F877E693-FF31-47FC-9A4A-F927020C547A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1251E7E1-C2C1-4DE7-975A-EF605D6B0178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1251E7E1-C2C1-4DE7-975A-EF605D6B0178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1251E7E1-C2C1-4DE7-975A-EF605D6B0178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1251E7E1-C2C1-4DE7-975A-EF605D6B0178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68049913-6985-4D22-A022-980BD643EABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68049913-6985-4D22-A022-980BD643EABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68049913-6985-4D22-A022-980BD643EABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68049913-6985-4D22-A022-980BD643EABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F513A7-8A64-4F00-9747-51C3DCB5AC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F513A7-8A64-4F00-9747-51C3DCB5AC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F513A7-8A64-4F00-9747-51C3DCB5AC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F513A7-8A64-4F00-9747-51C3DCB5AC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C8078A-55B2-4E00-8AEE-0D87E0CC0D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C8078A-55B2-4E00-8AEE-0D87E0CC0D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C8078A-55B2-4E00-8AEE-0D87E0CC0D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C8078A-55B2-4E00-8AEE-0D87E0CC0D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F877E693-FF31-47FC-9A4A-F927020C547A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F877E693-FF31-47FC-9A4A-F927020C547A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F877E693-FF31-47FC-9A4A-F927020C547A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F877E693-FF31-47FC-9A4A-F927020C547A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
